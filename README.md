@@ -9,6 +9,6 @@ This is the final project slidify presentation source code for the Developing Da
 
 # Links to Project App & Docs
 
-README file : change - add these 2 lines
-## final course project - Aaryaman Awasthi
+
+## final course project - Abhradeep Roy
 ## developing data products - week#4
